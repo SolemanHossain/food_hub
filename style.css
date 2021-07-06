@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto Slab', serif;
+    margin: ;
    
 }
 h1{
@@ -25,4 +26,20 @@ h1{
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 20px;
+    line-height: 4em;
+}
+.about_me{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-right: 70px;
+}
+.about_me img{
+    width: 60%;
+}
+#contact{
+    line-height: 15em;
 }
