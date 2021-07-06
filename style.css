@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto Slab', serif;
+   
+}
+h1{
+    font-size: 60px;
+}
+.heading_color{
+    color:dodgerblue;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half_width{
+    width: 50%;
+}
+.half_width img{
+    width: 75%;
+}
+.button_design{
+    background-image: linear-gradient(blue,dodgerblue);
+    text-decoration: none;
+    color: floralwhite;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
