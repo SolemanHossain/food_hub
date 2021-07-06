@@ -68,9 +68,8 @@ h3{
     margin-right: 20px;
     margin-left: 20px;
     border-radius: 30px;
-    box-shadow: 20px 20px 20px 20px aliceblue;
+    box-shadow: 0 0 20px aliceblue;
     border:whitesmoke solid;
-    border-image-slice: 1;
 }
 #recipie_section{
     color: gray;
@@ -99,6 +98,28 @@ h3{
     background-color: dodgerblue;
 
     
+}
+.followers_part{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px aliceblue;
+    border:whitesmoke solid;
+    text-align: center;
+    font-size: 12px;
+}
+.followers_subsection{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+
 }
 h5{
     font-size: 30px;
