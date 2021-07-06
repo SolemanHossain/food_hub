@@ -70,3 +70,10 @@ h3{
     border-image-slice: 1;
 
 }
+.extra_part_width{
+    width: 10%;
+
+}
+.extra_part_width img{
+    border-radius: 150px;
+}
